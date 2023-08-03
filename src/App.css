@@ -1,0 +1,21 @@
+.calc{
+  width: 300px;
+  height:100%;
+  padding: 14px;
+  background-color: brown;
+  border-radius: 20px;
+  border:5px solid white
+}
+
+body{
+  background-color: rgb(41, 35, 31);
+}
+
+.fila{
+  margin:4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: brown;
+
+}
